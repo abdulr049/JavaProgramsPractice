@@ -25,6 +25,7 @@ public class ArrayListDemo {
 		
 		System.out.println(arrList.get(3));
 		
+		System.out.println(arrList.get(4));
 
 	}
 
